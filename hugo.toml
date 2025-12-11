@@ -1,0 +1,8 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "In the Beginning Is Life"
+theme = "papermod"
+
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = true

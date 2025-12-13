@@ -1,8 +1,25 @@
-baseURL = "https://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "In the Beginning Is Life"
 theme = "papermod"
 
+paginate = 0
+enableRobotsTXT = true
+buildDrafts = true
+
 [params]
   defaultTheme = "light"
   disableThemeToggle = true
+  showReadingTime = false
+  showShareButtons = false
+  showPostNavLinks = false
+  showBreadCrumbs = false
+  showCodeCopyButtons = true
+  showRssButtonInSectionTermList = false
+  showToc = false          # we manage TOC manually on the home page
+  mainSections = ["none"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

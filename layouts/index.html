@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 <style>
   /* Hide the top-right header menu only on the homepage */
   header .nav,
@@ -8,26 +9,65 @@
 </style>
 
 <div class="home-wrapper">
+
   <div class="home-image">
-    <img src="/images/cover.png" alt="Cover image">
+    <img src='{{ "images/cover.png" | relURL }}' alt="Cover image">
   </div>
 
   <div class="home-right">
     <h1 class="home-title">In the Beginning Is Life</h1>
-    <p class="home-subtitle">Science, Philosophy, and the Moral Ground of Human Embryo</p>
+
+    <p class="home-subtitle">
+      Science, Philosophy, and the Moral Ground of Human Embryo
+    </p>
+
     <p class="home-author">Frdelib</p>
 
     <nav class="home-nav" aria-label="Book navigation">
       <ul>
-        <li><a href="/dedication/">Dedication</a></li>
-        <li><a href="/book/chapter1/">Chapter 1 — Introduction</a></li>
-        <li><a href="/book/chapter2/">Chapter 2 — Biology of Human Beginning</a></li>
-        <li><a href="/book/chapter3/">Chapter 3 — Philosophy of Human Worth</a></li>
-        <li><a href="/book/chapter4/">Chapter 4 — Law and the Problem of Beginnings</a></li>
-        <li><a href="/book/chapter5/">Chapter 5 — At the Edge of Principle</a></li>
-        <li><a href="/files/in-the-beginning-is-life.pdf">Download PDF</a></li>
+        <li>
+          <a href='{{ "dedication/" | relURL }}'>Dedication</a>
+        </li>
+
+        <li>
+          <a href='{{ "book/chapter1/" | relURL }}'>
+            Chapter 1 — Introduction
+          </a>
+        </li>
+
+        <li>
+          <a href='{{ "book/chapter2/" | relURL }}'>
+            Chapter 2 — Biology of Human Beginning
+          </a>
+        </li>
+
+        <li>
+          <a href='{{ "book/chapter3/" | relURL }}'>
+            Chapter 3 — Philosophy of Human Worth
+          </a>
+        </li>
+
+        <li>
+          <a href='{{ "book/chapter4/" | relURL }}'>
+            Chapter 4 — Law and the Problem of Beginnings
+          </a>
+        </li>
+
+        <li>
+          <a href='{{ "book/chapter5/" | relURL }}'>
+            Chapter 5 — At the Edge of Principle
+          </a>
+        </li>
+
+        <li>
+          <a href='{{ "files/in-the-beginning-is-life.pdf" | relURL }}'>
+            Download PDF
+          </a>
+        </li>
       </ul>
     </nav>
   </div>
+
 </div>
+
 {{ end }}

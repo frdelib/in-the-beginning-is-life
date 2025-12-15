@@ -1,13 +1,11 @@
----
+----
 title: "Appendix — Technical Terms"
 slug: "appendix"
 toc: false
 TocOpen: false
-_build:
+build:
   list: never
   render: always
-  publishResources: true
----
 ---
 
 

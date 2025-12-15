@@ -75,5 +75,6 @@ Law does not settle the question of when life begins. It responds to that questi
 This is where the task of law ends and where moral and philosophical judgment must begin.
 
 
-→ **[Chapter 5]({{< relref "book/chapter5/_index.md" >}})**
+<p>→ <strong><a href='{{< relref "book/chapter5/index.md" >}}'>Chapter 5</a></strong></p>
+
 

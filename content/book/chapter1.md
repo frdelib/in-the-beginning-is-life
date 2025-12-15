@@ -111,4 +111,5 @@ params:
   <li>Killing is permissible only in self-defense.</li>
 </ol>
 
-→ **[Chapter 2]({{< relref "book/chapter2/_index.md" >}})**
+<p>→ <strong><a href='{{< relref "book/chapter2/_index.md" >}}'>Chapter 2</a></strong></p>
+

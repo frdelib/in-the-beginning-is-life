@@ -507,4 +507,5 @@ As the primitive streak shortens and regresses, gastrulation draws to a close. T
 
 The streak will disappear; the notochord will remain as the first axial skeleton. With the germ layers in place, the embryo is prepared for neurulation, organogenesis, and the next major phase of development.
 
-→ **[Part II]({{< relref "book/chapter2/part2.md" >}})**
+<p>→ <strong><a href='{{< relref "book/chapter2/part2.md" >}}'>Part II</a></strong></p>
+

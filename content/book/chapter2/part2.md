@@ -207,4 +207,5 @@ From fertilization onward, the entity in question is a human organism. It is bou
 Continuity is the simplest and most economical description. Nothing in the biology suggests a break in identity. What changes is complexity, not the subject of the changes. The history that begins at fertilization is the same human life that later walks, speaks, reasons, and chooses.
 
 
-→ **[Part III]({{< relref "book/chapter2/part3.md" >}})**
+<p>→ <strong><a href='{{< relref "book/chapter2/part3.md" >}}'>Part III</a></strong></p>
+

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="main">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="post-content">{{ . }}</div>
+    {{ end }}
+  </header>
+
+  <div class="chapter2-cards">
+    {{ range .Pages.ByWeight }}
+      <a class="part-card" href="{{ .RelPermalink }}">
+        <div class="part-card__title">{{ .Title }}</div>
+      </a>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

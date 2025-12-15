@@ -1,0 +1,8 @@
+<div class="plb-box">
+  {{ with .Get "title" }}
+    <div class="plb-box-title">{{ . }}</div>
+  {{ end }}
+  <div class="plb-box-body">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

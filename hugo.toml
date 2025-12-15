@@ -1,6 +1,9 @@
+relativeURLs = true
+canonifyURLs = false
+
 baseURL = "/"
 languageCode = "en-us"
-title = "In the Beginning Is Life"
+title = ""
 theme = "papermod"
 
 paginate = 0
@@ -23,3 +26,12 @@ buildDrafts = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  

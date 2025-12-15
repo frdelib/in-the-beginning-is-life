@@ -326,6 +326,5 @@ The empirical picture is consistent and straightforward. At fertilization, a new
 ### Appendix
 
 Readers who wish to consult precise biological and technical definitions used throughout this chapter may refer to the appendix:
-→ **[Appendix — Technical Terms and Clarifications]({{< relref "book/chapter2/appendix" >}})**
-
+→ **[Appendix — Technical Terms and Clarifications]({{< relref "book/chapter2/appendix.md" >}})**
 The appendix is supplementary and may be read independently.

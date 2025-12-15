@@ -1,4 +1,4 @@
-----
+---
 title: "Appendix — Technical Terms"
 slug: "appendix"
 toc: false
@@ -7,9 +7,6 @@ build:
   list: never
   render: always
 ---
-
-
-
 <div class="glossary-2col">
 
 

@@ -7,7 +7,7 @@ params:
   tocOpen: false
 ---
 
-## 5.1 When Conviction Meets Sorrow
+### 5.1 When Conviction Meets Sorrow
 
 Every moral argument eventually reaches its limit—the point at which reason must face pain directly. Until now, the discussion has moved in the clear terrain of biology and logic: life begins at fertilization, unfolds continuously, and possesses intrinsic worth. But when principles enter lived experience, they encounter resistance not from argument but from grief. At this boundary, conviction is tested not by refutation, but by tears.
 
@@ -19,7 +19,7 @@ What unsettled me most was not only what had happened, but my own insufficiency.
 
 That memory endures because it exposes the distance between knowing and doing. Moral truth is not undone by human weakness, but unfulfilled truth leaves a wound in the conscience that recognizes it. To defend life in words is one thing; to stand beside those who suffer because of that defense is another. At this edge, ethics ceases to be abstract and becomes humility.
 
-## 5.2 Medical Danger and the Right of Self-Defense
+### 5.2 Medical Danger and the Right of Self-Defense
 
 In rare but real cases, pregnancy can place a woman’s life in grave danger. The same body that sustains the child may become a site of mutual threat. Modern medicine prevents most such outcomes, yet there remain situations in which no technical solution dissolves the dilemma: two lives joined in a single physiology, where the loss of one appears bound to the survival of the other.
 
@@ -31,7 +31,7 @@ At the bedside, however, distinctions between intent and outcome offer little co
 
 Every such decision should be marked by sorrow, never triumph. The moral order remains coherent, but it trembles. When life confronts life, conscience is not called to celebration, but to lamentation.
 
-## 5.3 The Wound of Rape and the Dilemma of Innocence
+### 5.3 The Wound of Rape and the Dilemma of Innocence
 
 Few human experiences fracture the self as completely as rape. It is not only a physical violation, but an assault on the conditions of moral agency itself—an intrusion into autonomy, trust, and embodied consent. In such an act, the will is overridden; what belongs, by nature, to intimacy and generation is converted into domination. When pregnancy results from that violence, the moral argument for life encounters its most severe trial.
 
@@ -43,7 +43,7 @@ Perhaps the most honest response is to refuse false resolution. The principle of
 
 Some questions cannot be closed by reason. The child’s innocence and the woman’s suffering belong to different moral registers, and no formula can reconcile them without loss. At minimum, moral law must prohibit hatred from doing what love has failed to accomplish.
 
-## 5.4 Social Inequality and the Weight of Responsibility
+### 5.4 Social Inequality and the Weight of Responsibility
 
 Moral laws apply universally, but their burdens do not fall evenly. A principle that appears self-evident to the secure can become crushing to the vulnerable. When a woman lives at the margins of stability—without reliable income, support, or social standing—the call to welcome new life may register not as hope, but as despair. Poverty and neglect convert biological possibility into moral anguish.
 
@@ -57,7 +57,7 @@ The defense of life therefore extends beyond prohibition. It requires the constr
 
 No argument for life is complete without confronting these inequities. The same conscience that recognizes the worth of the embryo must also oppose the social arrangements that make such recognition impossible for the poor. To speak of sanctity while tolerating despair is to hollow the word of meaning.
 
-## 5.5 The Other Edge Cases
+### 5.5 The Other Edge Cases
 
 Beyond these tragedies lie rarer cases where medicine and identity blur further still: conjoined twins sharing vital organs; fetuses diagnosed with conditions incompatible with postnatal survival; ectopic pregnancies that threaten both lives; interventions in which saving one child foreseeably endangers another. Each presses moral reasoning to its limit.
 
@@ -65,7 +65,7 @@ The mind seeks clear categories; nature often resists them. One body may contain
 
 Truth in these contexts includes limitation and loss. What distinguishes moral action from technical management is not success of outcome, but integrity of intent—the refusal to treat any life, however brief or impaired, as expendable. When medicine acts with that restraint, it remains within the moral order even when tragedy is unavoidable.
 
-## 5.6 The Measure of Civilization
+### 5.6 The Measure of Civilization
 
 Having passed through biology, philosophy, law, and suffering, we return to the proposition from which we began: every human life possesses equal worth. The claim has not changed, but its cost is now visible. We have seen it tested by illness, poverty, coercion, and violence. We have seen law struggle to translate moral truth into enforceable form, and reason itself hesitate before grief. Yet the principle endures.
 

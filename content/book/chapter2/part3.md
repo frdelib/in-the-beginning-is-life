@@ -328,3 +328,4 @@ The empirical picture is consistent and straightforward. At fertilization, a new
 Readers who wish to consult precise biological and technical definitions used throughout this chapter may refer to the appendix:
 → **[Appendix — Technical Terms and Clarifications]({{< relref "book/chapter2/appendix.md" >}})**
 The appendix is supplementary and may be read independently.
+<p>→ <strong><a href='{{< relref "book/chapter3/index.md" >}}'>Chapter 3</a></strong></p>

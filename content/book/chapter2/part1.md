@@ -6,7 +6,7 @@ params:
   showToc: true
   tocOpen: false
 ---
-## 2.1 The Question Returns to the Cell
+### 2.1 The Question Returns to the Cell
 
 If we strip away the emotional fog that surrounds the beginning of life, the central question becomes concrete: What new thing appears in nature when fertilization occurs? Biology cannot resolve every philosophical disagreement, but it can tell us, with unusual clarity, what changes and what does not. At the smallest scale, nature speaks in the most definite terms.
 
@@ -20,7 +20,7 @@ Fertilization is not a metaphor. It is a timed, measurable, reproducible physica
 
 Everything that follows in this part of the chapter is an attempt to lead the reader into this microscopic landscape, slowly and carefully, without assuming prior expertise. The story begins with the two cells whose union initiates an entirely new developmental trajectory.
 
-## 2.2 The Players: What the Gametes Are
+### 2.2 The Players: What the Gametes Are
 
 Human reproduction begins with two cells that are alive but terminal in their own line. They do not divide, do not regenerate, and cannot replace their own parts. Each stands at the endpoint of its developmental path. Yet together they initiate another.
 
@@ -40,7 +40,7 @@ The midpiece contains a spiral of mitochondria that provide initial fuel. The lo
 
 Neither gamete can advance further alone. Outside the female reproductive tract, sperm survive only for hours. Without fertilization, the oocyte persists briefly and then degenerates. Both are poised on the edge of disappearance unless they meet.
 
-## 2.3 Fertilization: From Many to One
+### 2.3 Fertilization: From Many to One
 
 The path that leads a sperm to the oocyte is often described as a race among millions. The image is simple and wrong. The reality is less competitive, more orchestrated—a guided passage through a complex environment.
 
@@ -172,7 +172,7 @@ Even without recombination, a parent can make 2^23 ≈ 8.4 million different gam
 Recombination adds roughly ~34 crossovers per gamete on average, which increases diversity to about 10^17 combinations per parent--or roughly 10^34 for two parents. Add ~50–100 new point mutations per conception, and every human zygote becomes a one-time configuration of matter and information--a genetic pattern that has never existed before and will never recur. (At least not on this small planet--unless humanity one day carries its biology among the stars and sustains it there against evolution's reshuffling.)
 {{< /box >}}
 
-## 2.4 From Fertilization to First Division: How One Cell Becomes a New Organism
+### 2.4 From Fertilization to First Division: How One Cell Becomes a New Organism
 
 By the time one sperm has fused with the egg membrane, the odyssey of gamete interaction—migration, capacitation, zona recognition, acrosomal remodeling—has ended. Inside, however, the decisive transition is just beginning. Two highly specialized, nearly terminal cell types must now undo their specialization and rebuild themselves into something entirely different: a totipotent, self-directing embryo.
 
@@ -246,7 +246,7 @@ The identity of the organism does not change as scale changes. What unfolds is n
 Calculation notes: These estimates use standard geometric approximations and physiological reference values (e.g., blood volume, hematocrit, mean corpuscular volume) to anchor cell counts. Precise values vary, but the orders of magnitude are robust.
 {{< /box >}}
 
-## 2.5 Cleavage to the Bilaminar Disc
+### 2.5 Cleavage to the Bilaminar Disc
 
 ### 2.5.1 From the First Cleavage to the Threshold of Compaction
 
@@ -294,7 +294,7 @@ By the end of these initial days, the embryo commonly reaches the 8–16-cell st
 
 The next major event, compaction, transforms the loose cluster into a cohesive structure.
 
-## 2.6 Compaction, Morula, Blastocyst: The First Architecture of a Human
+### 2.6 Compaction, Morula, Blastocyst: The First Architecture of a Human
 
 By the third day after fertilization, the human embryo—still within the zona pellucida—has reached the 8–16-cell stage. Until now, the blastomeres have been distinct, each cell a small sphere pressing gently against the others. Then a decisive transition occurs.
 
@@ -360,7 +360,7 @@ Hatching is precise in timing. Failure to hatch prevents implantation; premature
 
 With the first lineage decisions established and the architecture of the blastocyst complete, the embryo begins its next transition: implantation.
 
-## 2.7 Implantation and the Formation of the Bilaminar Disc
+### 2.7 Implantation and the Formation of the Bilaminar Disc
 
 By the end of the fifth day, the blastocyst has formed its initial architecture: TE outside, ICM at one pole, blastocoel within. It has hatched and now floats in the uterine cavity, a sphere roughly a tenth of a millimeter in diameter. What follows is the embryo’s first negotiation with maternal tissue.
 
@@ -427,7 +427,7 @@ The epiblast, now suspended between the amniotic cavity above and the hypoblast 
 **The Hypoblast and the Primary Yolk Sac**  
 The hypoblast spreads along the inner surface of the blastocyst, converting the old blastocoel into the primary yolk sac. Although it contains no yolk, this structure will play early roles in signaling, nutrient management, and the formation of the first germ cell and blood precursors.
 
-## 2.8 Gastrulation and the Emergence of the Body Plan
+### 2.8 Gastrulation and the Emergence of the Body Plan
 
 ### 2.8.1 Prelude to Gastrulation: Setting the Stage
 

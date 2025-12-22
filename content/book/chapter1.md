@@ -15,7 +15,7 @@ params:
 
 <p>Molecular biology, genetics, and developmental science now describe this process in detail. Yet moral confusion has increased. The debate has shifted from when life begins to which human lives deserve protection.</p>
 
-## 1.1 Civilizational Lesson
+### 1.1 Civilizational Lesson
 
 
 
@@ -25,7 +25,7 @@ params:
 
 <p>This work proceeds from the conviction that dividing human lives into worthy or unworthy is impossible to sustain in a moral civilization. If human life has intrinsic worth, the principle must apply to all. If not, it collapses everywhere. There is no stable middle ground.</p>
 
-## 1.2 The Aim of This Work
+### 1.2 The Aim of This Work
 
 
 
@@ -43,7 +43,7 @@ params:
 
 <p>The final chapter brings these strands together and considers the human complexities that arise when principle meets lived experience.</p>
 
-## 1.3 The Biological Grounding of Individuality
+### 1.3 The Biological Grounding of Individuality
 
 
 
@@ -55,7 +55,7 @@ params:
 
 <p>By these biological criteria, the zygote is a living organism. It shows integration, autonomy, and identity. To deny this is to adopt a definition of life that biology itself does not use. The gap between biological fact and moral interpretation sits at the center of contemporary confusion, and the next chapter addresses how ethical reasoning should move from “is” to “ought.”</p>
 
-## 1.4 From Biology to Philosophy
+### 1.4 From Biology to Philosophy
 
 
 
@@ -71,7 +71,7 @@ params:
 
 <p>To destroy what is ordered toward flourishing is to act against the grain of reality. Moral worth comes from being human, not from behaving humanly. This principle alone sustains universal human rights. Without it, the idea of human dignity breaks apart.</p>
 
-## 1.5 Historical Continuity and Modern Amnesia
+### 1.5 Historical Continuity and Modern Amnesia
 
 
 
@@ -81,7 +81,7 @@ params:
 
 <p>But moral progress has never come from redefining inconvenience. Societies that abolished slavery, protected the disabled, and recognized universal rights did so by refusing to tie worth to circumstance. The question of the unborn lies within that same moral lineage.</p>
 
-## 1.6 The Role of Law and the State
+### 1.6 The Role of Law and the State
 
 
 
@@ -91,7 +91,7 @@ params:
 
 <p>The legal question mirrors the moral one and cannot be settled by compromise alone. Later chapters examine how different legal traditions have handled the link between biological humanity and legal personhood.</p>
 
-## 1.7 Conscience
+### 1.7 Conscience
 
 
 
@@ -101,7 +101,7 @@ params:
 
 <p>But conviction must be joined to compassion. To defend life is not to condemn those who have faced tragic decisions. Moral truth cannot be separated from mercy. The sanctity of life should never be turned into a weapon. It is a way of saying that even in suffering, life keeps its meaning.</p>
 
-## 1.8 Closing Reflection
+### 1.8 Closing Reflection
 
 
 

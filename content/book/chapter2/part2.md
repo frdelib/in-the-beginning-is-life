@@ -19,7 +19,7 @@ The formation of a new human organism is not a matter of professional proximity 
 That both the sperm and the egg are alive, and that fertilization merely continues that living state, is a consideration whose underlying meaning requires clarification. If the “continues life” term refers to the phenomenological flux of metabolic activity or molecular persistence, then it is true that life in some sense does not begin, but continues. But such continuity is a feature of matter, not of organisms. Organismic life, by contrast, has a beginning and an end. It unfolds through ordered stages. The zygote is not a metaphor for life. It is the first instantiation of a distinct biological being—one that did not exist before and will, if uninterrupted, proceed through the stages of the human life cycle.
 {{< /box >}}
 
-## 2.9 How Biologists Recognize Life
+### 2.9 How Biologists Recognize Life
 
 Across disciplines, biologists return to a small set of features when distinguishing the living from the non-living. Terminology shifts, but the structure of the checklist is stable. Living systems:
 
@@ -37,7 +37,7 @@ If we apply this ordinary biological standard to the human zygote, what do we se
 
 The remainder of this part takes each criterion in turn and asks whether the zygote satisfies it.
 
-## 2.10 How the Zygote Meets the Criteria of Life
+### 2.10 How the Zygote Meets the Criteria of Life
 
 ### 2.10.1 Organization and Integration
 
@@ -132,7 +132,7 @@ The fused genome and reprogrammed chromatin create an informational configuratio
 Taken together, these features match the operational hallmarks of an autonomous living system. What begins at fertilization is not the mere continuation of two metabolic streams but the origin of a single, self-maintaining dynamical entity—the first systems-level instance of this human life.
 {{< /box >}}
 
-## 2.11  The Whole Becomes More Than the Parts
+### 2.11  The Whole Becomes More Than the Parts
 
 Sperm and oocyte are themselves living cells, but they are terminal in their developmental roles. A sperm will not independently generate a body plan; an unfertilized egg, without activation, will degenerate.
 
@@ -140,7 +140,7 @@ At fertilization, new system-level properties appear that neither cell possessed
 
 This is higher-level order arising when components are arranged in a specific way. The molecules existed before; the organism did not. After fertilization, the organism is there.
 
-## 2.12 Regulation and Repair: The Embryo’s Resilience
+### 2.12 Regulation and Repair: The Embryo’s Resilience
 
 One way to test whether a system is truly integrated is to disturb it and see what happens next.
 
@@ -150,7 +150,7 @@ As development proceeds and cells specialize, this flexibility narrows. A differ
 
 This is not the behavior of a simple machine, where the loss of a component stops function. It is the behavior of a living system that prioritizes the preservation of its own organization.
 
-## 2.13 Genetic and Epigenetic Uniqueness
+### 2.13 Genetic and Epigenetic Uniqueness
 
 At fertilization, two haploid genomes combine into a new diploid configuration. Recombination and independent assortment generate a genetic pattern that, for human parents, is effectively unique even before considering smaller sequence variations.
 
@@ -160,7 +160,7 @@ Around this DNA sits the epigenome. Gamete-specific methylation and histone mark
 
 Individuality, in this modest but concrete sense, is a molecular fact.
 
-## 2.14 Life’s Checklist
+### 2.14 Life’s Checklist
 
 We can now revisit the initial criteria for life and ask whether the human zygote satisfies them:
 
@@ -174,7 +174,7 @@ We can now revisit the initial criteria for life and ask whether the human zygot
 
 By the same standards used for all other living organisms, the human zygote qualifies as alive and organismal, not as “potential life.”
 
-## 2.15 Developmental Continuity and Organismal Architecture
+### 2.15 Developmental Continuity and Organismal Architecture
 
 From fertilization onward, human development unfolds as a continuous, internally coordinated program. Within approximately twenty-four hours, the zygote completes its first mitotic division. Subsequent cleavages produce four cells, then eight, then sixteen, followed by compaction, blastocyst formation, implantation, and gastrulation. These stages differ in morphology and complexity, but they are not different entities in succession. They are phases of one developmental history.
 
@@ -192,7 +192,7 @@ These comparisons converge on a single conclusion. What defines the embryo is no
 
 Continuity, in this sense, is not a philosophical postulate. It is the most economical biological description of what is observed. The same system persists while its organization changes. Development adds structure and capacity, but it does not replace the subject undergoing those changes.
 
-## 2.16 Dependence and Autonomy
+### 2.16 Dependence and Autonomy
 
 All organisms are dependent. Fish require water, trees require soil and light, newborn infants require care. Yet we do not infer that a fish is part of the ocean or that an infant is merely an organ of the mother. Dependence describes a relation, not a loss of identity.
 
@@ -200,7 +200,7 @@ The embryo’s dependence on the maternal body is of this ordinary biological ki
 
 Here a distinction matters. Biological autonomy is the capacity for self-organization and self-maintenance. Moral autonomy is the capacity for rational deliberation and choice. The embryo clearly has the first and not the second. But moral autonomy presupposes biological autonomy: a subject capable of reasoning must first exist as a living organism. In that sense, the embryo’s biological autonomy is the necessary groundwork for any later moral agency.
 
-## 2.17 Conclusion: The Same Life from Beginning to End
+### 2.17 Conclusion: The Same Life from Beginning to End
 
 From fertilization onward, the entity in question is a human organism. It is bounded, self-organizing, metabolically active, and developmentally continuous. These features are the standard biological criteria for life and apply without modification. Later stages—infancy, adolescence, adulthood—are further expressions of the same underlying individual.
 

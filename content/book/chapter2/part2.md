@@ -109,28 +109,6 @@ At the molecular level, syngamy and the first mitosis establish a unique diploid
 
 **Conclusion.** From its first moments, the embryo is both bounded and individually identifiable. It is not an anonymous fragment of maternal tissue; it is a distinct system with its own border and its own trajectory.
 
-{{< box title="Box 2.4 A Systems-Biology View of Organismal Onset" >}}
-Fertilization is not only a genetic event but a systems-level transition. In the language of systems biology, a new organism arises when a self-bounded, self-maintaining network of causal feedbacks comes into being—an autonomous control architecture capable of sustaining its own state variables and developmental course.
-
-Several features of the zygote can be described in this framework:
-
-**Boundary Formation.**  
-At sperm–oocyte fusion, cortical-granule exocytosis and zona hardening convert a permissive surface into a closed envelope. Ion fluxes, resting potential, and membrane composition reorganize into kinetics not found in either gamete alone. A distinct thermodynamic system with its own boundary conditions appears.
-
-**Feedback and Control.**  
-Sperm-delivered PLCζ triggers periodic Ca²⁺ oscillations that entrain CDK and APC/C activity. Altering oscillation frequency perturbs mitotic timing; restoring it rescues normal progression. The zygote therefore exhibits endogenous feedback control, not simple one-way execution of pre-loaded maternal stockpiles.
-
-**Causal Integration.**  
-Signaling modules that were relatively separate in the oocyte—CaMKII, MAPK, CDK, metabolic flux regulators—become mutually constraining in the zygote. Interventions at one node now propagate across the network; measured “effective information” rises. Functionally, parts now behave as a single integrated control system.
-
-**Robustness.**  
-The developmental trajectory—pronuclear migration, first cleavage, axis specification—acts as a robust attractor. Modest perturbations are corrected; the system returns to a characteristic path whenever possible.
-
-**Informational Uniqueness and Negative Entropy.**  
-The fused genome and reprogrammed chromatin create an informational configuration absent from either progenitor yet sufficient to drive development. This configuration is maintained by continuous energy throughput: ion gradients, ATP-dependent remodeling, transcription, and translation all act to resist thermodynamic equilibrium. In Schrödinger’s terms, the zygote maintains order by “feeding on negative entropy,” converting environmental free energy into structured activity.
-
-Taken together, these features match the operational hallmarks of an autonomous living system. What begins at fertilization is not the mere continuation of two metabolic streams but the origin of a single, self-maintaining dynamical entity—the first systems-level instance of this human life.
-{{< /box >}}
 
 ### 2.11  The Whole Becomes More Than the Parts
 
@@ -192,15 +170,7 @@ These comparisons converge on a single conclusion. What defines the embryo is no
 
 Continuity, in this sense, is not a philosophical postulate. It is the most economical biological description of what is observed. The same system persists while its organization changes. Development adds structure and capacity, but it does not replace the subject undergoing those changes.
 
-### 2.16 Dependence and Autonomy
-
-All organisms are dependent. Fish require water, trees require soil and light, newborn infants require care. Yet we do not infer that a fish is part of the ocean or that an infant is merely an organ of the mother. Dependence describes a relation, not a loss of identity.
-
-The embryo’s dependence on the maternal body is of this ordinary biological kind. It receives nutrients, hormones, and protection, but the control of its own growth—the sequence of divisions, the timing of genome activation, the allocation of lineages—arises from within the embryo itself. The mother provides the environment; the embryo supplies the developmental script.
-
-Here a distinction matters. Biological autonomy is the capacity for self-organization and self-maintenance. Moral autonomy is the capacity for rational deliberation and choice. The embryo clearly has the first and not the second. But moral autonomy presupposes biological autonomy: a subject capable of reasoning must first exist as a living organism. In that sense, the embryo’s biological autonomy is the necessary groundwork for any later moral agency.
-
-### 2.17 Conclusion: The Same Life from Beginning to End
+### 2.16 Conclusion: The Same Life from Beginning to End
 
 From fertilization onward, the entity in question is a human organism. It is bounded, self-organizing, metabolically active, and developmentally continuous. These features are the standard biological criteria for life and apply without modification. Later stages—infancy, adolescence, adulthood—are further expressions of the same underlying individual.
 

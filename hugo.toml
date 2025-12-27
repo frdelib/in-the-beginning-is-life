@@ -34,7 +34,7 @@ buildDrafts = true
     url = "/"
     weight = 1
 [params.version]
-  label = "Version v0.3.0"
-  date = "2025-12-21"
+  label = "Version v0.3.1"
+  date = "2025-12-26"
 
   

@@ -7,7 +7,7 @@ params:
   tocOpen: false
 ---
 
-### 3.1 The Problem of Identity After Organismhood
+### 2.17 The Problem of Identity After Organismhood
 
 The preceding sections established two claims.  
 First, fertilization produces a living organism that satisfies standard biological criteria: metabolism, self-regulation, boundedness, and coordinated internal activity.  
@@ -23,7 +23,7 @@ This is not a semantic dispute. It is a prerequisite for biological explanation.
 
 This section addresses that problem directly.
 
-### 3.2 Why Development Requires a Bearer
+### 2.18 Why Development Requires a Bearer
 
 Development is not mere change. It is change of something.  
 A developmental trajectory presupposes a subject whose states succeed one another over time. Processes do not have trajectories. Systems do.
@@ -36,7 +36,7 @@ A biological subject is a bounded, self-integrating system for which changes are
 
 If no such subject exists, development is not development at all. It becomes a time-indexed chemical flow. Any process-only account must therefore explain how developmental explanation remains meaningful in the absence of a persisting subject.
 
-### 3.3 Why Process-Only Accounts Are Insufficient
+### 2.19 Why Process-Only Accounts Are Insufficient
 
 Developmental Systems Theory and related process-based accounts correctly emphasize that development is distributed, non-linear, and environmentally conditioned. No single molecule governs development. Causation is reciprocal. Context matters. These points are empirically sound.
 
@@ -53,7 +53,7 @@ Processes alone cannot account for several empirical features already establishe
 
 Processes explain change. They do not explain why change remains constrained to a single life-history. That constraint is not imposed by the environment. It is enforced from within the system.
 
-### 3.4 Systems Biology and the Necessity of System-Level Unity
+### 2.20 Systems Biology and the Necessity of System-Level Unity
 
 Systems biology does not merely catalogue interacting processes. Its central concern is how processes are organized, constrained, and coordinated so as to behave as one system across time.
 
@@ -65,7 +65,7 @@ A feedback loop is not a molecule but a pattern of causal closure.
 
 Systems biology therefore presupposes what strong process-only ontologies deny: the existence of a system whose behavior is being regulated, stabilized, or transformed.
 
-### 3.4.1 Stabilization, Mutual Constraint, and Invariant Architecture
+### 2.20.1 Stabilization, Mutual Constraint, and Invariant Architecture
 
 Process-based accounts often appeal to mutual constraint. No single process stabilizes development; rather, processes constrain one another. This description is partly correct. Developmental systems exhibit dense reciprocal coupling. Cell-cycle progression is linked to chromatin state. Transcription is coordinated with metabolic capacity. Cytoskeletal dynamics track signaling gradients.
 
@@ -109,7 +109,7 @@ The fused genome and reprogrammed chromatin create an informational configuratio
 Taken together, these features match the operational hallmarks of an autonomous living system. What begins at fertilization is not the mere continuation of two metabolic streams but the origin of a single, self-maintaining dynamical entity—the first systems-level instance of this human life.
 {{< /box >}}
 
-### 3.5 Openness, Boundaries, and Biological Identity
+### 2.21 Openness, Boundaries, and Biological Identity
 
 Living systems are thermodynamically open. They persist far from equilibrium only by exchanging matter and energy with their environment. This openness is a necessary condition of life.
 
@@ -123,7 +123,7 @@ Environmental factors supply energy and materials. They do not specify uptake, t
 
 Openness therefore presupposes intrinsic regulatory constraints.
 
-### 3.6 Dependence and Biological Autonomy
+### 2.22 Dependence and Biological Autonomy
 
 All organisms are dependent. Fish require water. Plants require light and soil. Newborn infants require care. Dependence does not erase identity.
 
@@ -137,7 +137,7 @@ The embryo satisfies this condition. Its exchanges are selectively regulated in 
 
 Dependence, therefore, does not undermine identity. Regulated dependence is a defining feature of life.
 
-### 3.7 Self-Integration Without Central Command
+### 2.23 Self-Integration Without Central Command
 
 Biological subjecthood does not require a master controller. Integration arises from architecture, not hierarchy.
 
@@ -150,7 +150,7 @@ In early development, this architecture includes:
 
 No single component directs development. Yet development is not anarchic. The system behaves as one because its subsystems form a closed causal graph that governs permissible trajectories. This self-integration is empirically detectable through coordinated progression, robustness within limits, and arrest upon loss of coherence.
 
-### 3.8 Identity as Persistence Across Regulated Change
+### 2.24 Identity as Persistence Across Regulated Change
 
 Biological identity is not grounded in molecular composition, functional capacity, or developmental stage. All of these change.
 
@@ -160,7 +160,7 @@ The zygote, embryo, and later organism are numerically the same biological subje
 
 This claim is not retrospective. It rests on present system-level behavior: the existence of a bounded system that governs its own transitions.
 
-### 3.9 Essence as Invariant Organizational Architecture
+### 2.25 Essence as Invariant Organizational Architecture
 
 Only once identity is secured does the question of essence arise.
 
@@ -176,7 +176,7 @@ Empirically, this invariant includes:
 
 This pattern is not directly observed. It is inferred from stable regularities of behavior. Such inference is routine in science. Attractors, control architectures, and landscapes are inferred constructs. Essence, as used here, belongs to the same epistemic category.
 
-### 3.10 The Zygote as a Biological Subject
+### 2.26 The Zygote as a Biological Subject
 
 Applied to the human zygote, this framework yields a clear result.
 
@@ -184,7 +184,7 @@ At fertilization, a new self-integrating system appears. It is bounded, internal
 
 The zygote is not a collection of processes that later becomes an organism. It is an organism whose earliest mode of existence is process-rich and dynamically regulated. Its identity is intrinsic from inception.
 
-### 3.11 Conclusion
+### 2.27 Conclusion
 
 Systems biology does not dissolve the organism. It reveals the organizational unity that makes development intelligible.
 

@@ -8,7 +8,7 @@ params:
 
 
 
-### 2.18 What Kind of Things Truly Emerge?
+### 2.28 What Kind of Things Truly Emerge?
 
 In developmental biology it is common to say that structures “emerge”: an axis emerges, a primitive streak appears, neural tissue first shows itself. The language is harmless as shorthand, but it is loose. In other fields—philosophy of mind, complex-systems theory—the word emergence carries a stricter meaning. There it marks properties that belong to the system as a whole and cannot be tied to any single place or component.
 
@@ -28,7 +28,7 @@ It is useful, before following the embryo further, to mark that stricter sense. 
 
 In all three, the common thread is clear: genuine emergence is about global configuration, not about a single switch in a single place.
 
-#### 2.18.1 Delocalization as a Practical Marker of Emergence
+#### 2.28.1 Delocalization as a Practical Marker of Emergence
 
 For our purposes, we can capture this idea in one simple working criterion:
 
@@ -46,7 +46,7 @@ The usual candidates for such properties are familiar: consciousness, sentience,
 
 With that criterion in hand, we can now ask a straightforward descriptive question: how do the landmarks of early human development—primitive streak, axis formation, loss of totipotency, early neural tissue, epigenetic and aging markers—actually behave? Do they show the same delocalized character, or something different?
 
-### 2.19 Developmental Landmarks as Local Transitions
+### 2.29 Developmental Landmarks as Local Transitions
 
 Standard embryology drawings mark certain stages as landmarks: the primitive streak appears; the body axis is laid down; the first neural plate becomes visible. It is easy, from a distance, to imagine that these are thresholds at which something fundamentally new comes into being.
 
@@ -70,7 +70,7 @@ In other words, these “emergences” are precisely the kind of things one expe
 
 They do important work in the life of that organism. But by the delocalization criterion, they are not emergent in the strong sense. They are reorganizations inside a system, not the arrival of the system itself.
 
-### 2.20 From Fertilization to Primitive Streak and Early Neural Tissue: One Continuous Cascade
+### 2.30 From Fertilization to Primitive Streak and Early Neural Tissue: One Continuous Cascade
 
 The continuity becomes clearer if we place the familiar landmarks back into the chain that runs from fertilization forward. Seen this way, there is no jump; only a continuous relay of causes.
 
@@ -102,7 +102,7 @@ Placed back into this chain, the primitive streak and early neural tissue look e
 
 Nothing ontologically new enters the scene at those points. The same organism is simply advancing its internal plan.
 
-### 2.21 Milestones as Phases in One Organism’s Life
+### 2.31 Milestones as Phases in One Organism’s Life
 
 Once this continuity is seen, the role of developmental milestones can be described in plain terms.
 
@@ -114,7 +114,7 @@ The broader picture is simple: early human development is a continuous, causally
 
 That is the sense in which this part of the chapter is a “proof by exclusion.” We do not argue against thresholds one by one. We simply describe the system as it is. Once its continuity is visible, there is no remaining place where a new biological individual first appears.
 
-### 2.22 Neural Programs Already in Motion
+### 2.32 Neural Programs Already in Motion
 
 Long before there is tissue that resembles a nervous system, the embryo is managing the conditions for its later neural life. The molecules that will guide neural lineage decisions appear early because they have earlier work to do.
 
@@ -124,7 +124,7 @@ REST (NRSF) plays a complementary role. It represses neuron-specific genes in ce
 
 Seen this way, the appearance of “neural markers” in later embryos is the natural unfolding of instructions placed early in the system. These molecular events do not represent an emergent threshold. They reflect a long-standing continuity between the early regulatory framework and the later neural lineage. Nothing about the visible onset of neural tissue signals the arrival of a new entity; it signals the next step in a program that has been running since fertilization.
 
-### 2.23 Epigenetic Reprogramming: Resetting a Single System
+### 2.33 Epigenetic Reprogramming: Resetting a Single System
 
 The embryo’s treatment of its chromatin landscape provides another example of continuity. Fertilization initiates a global reset, but the reset is done by the embryo itself as part of maintaining its own trajectory.
 
@@ -138,7 +138,7 @@ From a distance, the later “epigenetic marks” of differentiated tissues or a
 
 The reprogramming is therefore not an emergent threshold. It is the early expression of the same regulatory capacity that will structure every somatic lineage. It is one act of a single system sustaining itself.
 
-### 2.24 Rejuvenation and the Start of the Aging Clock
+### 2.34 Rejuvenation and the Start of the Aging Clock
 
 Telomeres and epigenetic clocks offer a different view of continuity. They show how the embryo resets its internal counters so that a lifespan can begin.
 
@@ -148,7 +148,7 @@ Epigenetic aging clocks tell a similar story. In mice, global methylation signat
 
 These observations clarify the status of aging markers. They are not indicators of a new identity appearing. They record how the same organism establishes and then maintains its epigenetic and telomeric state from the outset. The first turn of the clock is an internal choice made by the embryo itself, not a threshold imposed by later developmental milestones.
 
-### 2.25 Markers as Phases, Not Boundaries
+### 2.35 Markers as Phases, Not Boundaries
 
 The various molecular markers that attract philosophical attention—neural gene expression, chromatin states, telomere length—fit neatly into the continuity of the system.
 
@@ -168,7 +168,7 @@ Three points summarize their place:
 
 None of these transitions carries the delocalized character of emergent properties. They are discrete, mechanistically accountable changes in a system that has been present and self-directing since fertilization. They mark phases, not beginnings. They register increasing structure and specialization within one biological individual.
 
-### 2.26 Monozygotic Twinning as a Stress Test of Embryonic Unity
+### 2.36 Monozygotic Twinning as a Stress Test of Embryonic Unity
 
 Monozygotic twinning is often treated as a counterexample to embryonic individuality. It functions better as a stress test. If early development were genuinely indifferent to whether it produces one organism or two, then splitting would be common, spontaneous, and weakly constrained in time. What we observe is the opposite: twinning is rare, mechanistically specific, and limited to a narrow developmental window. The question, then, is not whether twinning “proves” non-individuality, but what it reveals about the embryo’s normal mode of integration.
 
@@ -178,7 +178,7 @@ Monozygotic twinning lies in the far tail of human developmental outcomes. Natur
 For comparison, biomedical research often treats p < 0.05 (about 2σ) as “significant.” By that evidentiary norm, the empirical regularity that one zygote yields one individual is not a loose generalization but a strongly supported developmental structure. Twinning is an uncommon deviation from a stable default, not a co-equal alternative trajectory.
 {{< /box >}}
 
-### 2.27 Mechanistic Routes to Splitting: Cohesion, Polarity, and Mechanical Stress
+### 2.37 Mechanistic Routes to Splitting: Cohesion, Polarity, and Mechanical Stress
 
 A consistent picture emerges across embryology, model systems, and assisted reproduction: splitting is associated with disruptions in the processes that ordinarily stabilize embryonic unity.
 
@@ -194,7 +194,7 @@ Several lines of evidence converge on this point:
 
 One should be careful about causal claims. Epigenetic differences observed in adult identical twins, including differences near loci involved in adhesion and early regulation, are compatible with an unusual early developmental state, but they do not by themselves establish the initiating mechanism. They are better treated as downstream signatures of an atypical early trajectory than as evidence of a predetermined “twinning identity.”
 
-### 2.28 The Window of Splitting and the Anatomy of the Outcome
+### 2.38 The Window of Splitting and the Anatomy of the Outcome
 
 The timing of splitting is constrained because embryonic integration increases rapidly. The later the separation, the more the embryo’s spatial plan has already been committed, and the less cleanly the system can bifurcate.
 
@@ -210,7 +210,7 @@ A standard temporal taxonomy captures the logic:
 
 The closing of the twinning window is itself informative. If individuality were absent early on, there would be no reason for a sharp temporal limit. The fact that the possibility of clean splitting disappears as patterning tightens indicates that unity is progressively stabilized, not gradually conferred from outside.
 
-### 2.29 How to Interpret “Rarity”
+### 2.39 How to Interpret “Rarity”
 
 The raw twinning rate understates how many “attempts” may occur, because early loss can yield the vanishing-twin pattern. Even granting that some early splits do not persist to birth, the dominant outcome remains singular development.
 
@@ -220,7 +220,7 @@ Comparative biology highlights the point by contrast. Some species, such as the 
 
 The best reading is simple. Human embryogenesis is structured to produce one organism from one zygote. Monozygotic twinning is a rare bifurcation that becomes possible when the early mechanisms of cohesion and pattern stabilization are disturbed, and it becomes impossible once the embryo’s spatial plan has tightened beyond separability.
 
-### 2.30 Maternal–Fetal Immune Tolerance: Recognition Between Two Organisms
+### 2.40 Maternal–Fetal Immune Tolerance: Recognition Between Two Organisms
 
 The immune system distinguishes what belongs from what does not. Each cell presents fragments of its internal proteins on the surface through human leukocyte antigens (HLA). T cells learn these patterns in the thymus and use them to identify tissues as “self.” Any deviation from this familiar presentation is treated as foreign. Transplants fail for precisely this reason.
 
@@ -234,7 +234,7 @@ Nothing in this arrangement resembles generalized immunosuppression. The rest of
 
 The physiology of pregnancy therefore presupposes individuality. Recognition is the first step; tolerance is the second; cooperation is the outcome.
 
-### 2.31 The Evolutionary Logic of Cooperation in Pregnancy
+### 2.41 The Evolutionary Logic of Cooperation in Pregnancy
 
 Evolution sharpens the same conclusion. Mammalian pregnancy is not parasitic, symbiotic, or competitive in the usual ecological categories. It has its own structure:
 
@@ -270,7 +270,7 @@ These are cases of coordinated regulation. The adjustments involve signals from 
 
 The underlying architecture remains cooperative. Conflict, where it exists, is bounded by selection for maternal survival and offspring viability. It operates within a larger framework that secures the success of both organisms.
 
-### 2.32 What These Systems Reveal About Embryonic Individuality
+### 2.42 What These Systems Reveal About Embryonic Individuality
 
 Every mechanism described—immune presentation, decidual transformation, placental invasion, vascular remodeling, metabolic tuning—presupposes that the embryo is not the mother’s tissue but a distinct organism.
 
@@ -283,7 +283,7 @@ Pregnancy therefore makes individuality visible. It does not blur boundaries; it
 
 The biology is quiet but direct. The embryo is not incorporated into the mother’s immune identity. It is recognized as separate and tolerated because its survival is necessary for the continuation of the species.
 
-### 2.33 Cytoplasmic Architecture and the Ground State of Development
+### 2.43 Cytoplasmic Architecture and the Ground State of Development
 
 Development does not begin in a vacuum. Long before fertilization, the oocyte prepares the environment in which a new genome will act. Its cytoplasm—dense with RNAs, proteins, organelles, metabolic infrastructure, and epigenetic machinery—constitutes the first regulatory system on which the embryo depends. In this sense, totipotency is not an abstract property of a nucleus. It is the outcome of a highly specific cellular architecture present only in the mature oocyte.
 
@@ -297,7 +297,7 @@ Clinical observations confirm the same logic from the opposite direction. In oop
 
 Spatial organization is part of this architecture. In several model organisms, oocyte geometry carries positional information essential for patterning. Amphibian embryos lacking the gray crescent fail to establish a proper dorsal axis; insect embryos shift head structures when maternal mRNA localization is altered. Mammalian oocytes are more flexible, but they are not geometrically neutral. Organelle distributions, cortical organization, and cytoskeletal asymmetries influence cleavage orientation, inner–outer cell allocation, and early axis biasing. The embryo inherits and interprets both the biochemical and geometric structure of the oocyte cytoplasm.
 
-### 2.34 Why Nuclear Totipotency Does Not Define Organismal Origin
+### 2.44 Why Nuclear Totipotency Does Not Define Organismal Origin
 
 Somatic cell nuclear transfer (SCNT) exposes the distinctive reprogramming capacity of oocyte cytoplasm with particular clarity. When a somatic nucleus is placed into an enucleated oocyte, the cytoplasm can erase much of its differentiated epigenetic state and restore an embryonic ground state. Chromatin is remodeled, DNA methylation is reset, and early embryonic genes can be reactivated.
 
